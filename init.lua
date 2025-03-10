@@ -10,7 +10,7 @@ local defs = {
             "blank.png",
             "neon_box_top.png"
         },
-        use_texture_alpha = "blend",
+        use_texture_alpha = "clip",
         drawtype = "normal"
     }
 }
